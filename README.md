@@ -18,6 +18,7 @@ The parts 2a and 2b have to be glued. In order to prevent the adhesive from runn
 <img src="https://github.com/mgraeser/3DAnatomicalRatModel/blob/master/Fotos/Preparation_Protect_Vessels.jpeg" height="300">.
 
 A thin layer of epoxy adhesive is then applied to the end face of part 2b and the parts are joined together. Afterwards, the cavity is also filled with adhesive as shown in the pictures. 
+
 GlueingInProcess
 
 <img src="https://github.com/mgraeser/3DAnatomicalRatModel/blob/master/Fotos/GlueingInProcess.jpeg" height="300">
