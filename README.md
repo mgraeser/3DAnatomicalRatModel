@@ -38,4 +38,4 @@ The complete assembled model is shown in the following picture.
 
 <img src="https://github.com/mgraeser/3DAnatomicalRatModel/blob/master/Pictures/AssembledRatModel.jpeg" height="300">
 
-**Fig. 5: Assembled Rat Model**
+**Fig. 5: Assembled Rat Model** 
